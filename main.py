@@ -5,3 +5,5 @@ for i in number:
         break
 else:
     print("not found !!!")
+
+    print("first")
